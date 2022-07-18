@@ -3,6 +3,7 @@ How to create a simple Node.js server:
 You need Node.js to be installed on your system. 
 You can download Node.js and follow the instructions on how to do that on nodejs.org;
 Clone or download this repository;
+<li>
 Open your terminal;
 With the command line go to the folder you just cloned/downloaded;
 > Type 'node index.js', so your server start running;
