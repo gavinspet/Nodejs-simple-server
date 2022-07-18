@@ -9,8 +9,8 @@ How to create a simple Node.js server:
 - Go to the browser and access http://localhost:3000 
 <li>
 http://localhost:3000         --> home page 
-http://localhost:3000/about   --> about page 
-http://localhost:3000/contact --> contact page 
-http://localhost:3000/xyz     --> "404:error page not found" </li>
+- http://localhost:3000/about   --> about page 
+- http://localhost:3000/contact --> contact page 
+- http://localhost:3000/xyz     --> "404:error page not found" </li>
                                 (for any other page in the same port and localhost) 
 
